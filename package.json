@@ -1,0 +1,12 @@
+{
+  "name": "typescript_demo",
+  "version": "1.0.0",
+  "description": "code examples of some of the features of typescript",
+  "main": "src/test.js",
+  "scripts": {
+    "start": "tsc src/test && node src/test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Public Domain"
+}
